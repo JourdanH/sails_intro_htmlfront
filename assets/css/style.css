@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
+
+
+* {
+  text-align: center;
+
+}
+
+h1{
+
+  font-family: 'Berkshire Swash', cursive;
+  color: darkred;
+  font-size: 52px;
+  text-shadow: 2px 2px gray;
+}
+
+.navbar-brand img {
+  height: 40px;
+  width: 40px;
+  margin-top: -10px;
+
+}
+th {
+  text-align: center;
+}
+
+
+.navbar-brand {
+  background-image: url("assets/images/skull.png");
+
+}
+.odd {
+  display: none;
+}
